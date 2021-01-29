@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#EC5A2D</color>
+    <color name="colorPrimaryDark">#EC5A2D</color>
+    <color name="colorAccent">#EC5A2D</color>
+    <color name="overlay_color">#48F4F4F4</color>
+    <color name="greenC">#01D277</color>
+    <color name="purpleC">#0066FF</color>
+    <color name="link">#0066FF</color>
+    <color name="blackText">#FFFFFF</color>
+    <color name="bg">#E2EAED</color>
+    <color name="whiteC">#ffffff</color>
+    <color name="colorNull">#00000000</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorPrimaryText">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteDark">#DBDBDB</color>
+    <color name="colorPrimaryLight">#CA7474</color>
+    <color name="colorBackground">#F4F7F7</color>
+
+    <color name="blue">#194FA2</color>
+    <color name="orang">#FF3D00</color>
+    <color name="oran">#FA3E03</color>
+    <color name="border_color">#AA333639</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <color name="blueOrigin">#004562</color>
+    <color name="blueSecond">#132551</color>
+    <color name="blueSoft">#EAEFF9</color>
+    <color name="silver">#9F9F9F</color>
+
+
+
+</resources>

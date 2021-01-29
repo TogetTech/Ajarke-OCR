@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ajarke OCR ID</string>
+    <string name="dialog_msg_to_load_image">Storage permission must be granted in order to load image files from the storage device</string>
+    <string name="dialog_msg_to_save_text_file">Storage permission must be granted in order to save the text file in the storage device</string>
+    <string name="enter_file_name_to_save">Entrez le nom du fichier à enregistrer</string>
+    <string name="save">Enregistrer</string>
+    <string name="no_image_selected">Aucune image sélectionnée</string>
+    <string name="edit_content">Edit Content</string>
+    <string name="result_will_be_displayed_here">Le résultat sera affiché ici</string>
+
+
+    <string name="copyright">Powered by TogetTech, Inc</string>
+
+    <string name="motto_app">AUTO-ID OCR</string>
+
+
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="TandC">I agree to the terms and condition of the AppCompany</string>
+    <string name="error_view">Error View</string>
+    <string name="password">Password</string>
+    <string name="email_hint">user@domain.com</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email_verify_again">Send Verify Email Again</string>
+    <string name="enterEmailId">Enter the registered Email ID</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="user_domain_com">user@domain.com</string>
+</resources>
